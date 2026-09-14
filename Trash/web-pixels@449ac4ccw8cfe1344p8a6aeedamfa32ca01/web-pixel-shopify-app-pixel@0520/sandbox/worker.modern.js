@@ -1,1 +1,0 @@
-No Content: https://beautyinstem.com/web-pixels@449ac4ccw8cfe1344p8a6aeedamfa32ca01/web-pixel-shopify-app-pixel@0520/sandbox/worker.modern.js
