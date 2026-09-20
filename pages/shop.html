@@ -223,12 +223,17 @@ Shopify.SignInWithShop.User.recognized = true;</script>
       
     </a>
 
-    <nav class="header__nav header__nav--right" aria-label="User navigation">
-      
-        <a href="/account" class="header__link link-animation">ACCOUNT</a>
-      
-      <a href="#" class="header__link link-animation" data-cart-open>SHOPPING CART</a>
-    </nav>
+    <nav aria-label="User navigation" class="header__nav header__nav--right">
+<a class="header__link header__link--icon link-animation" href="#" aria-label="Language">
+  <img src="../assets/img/icons/language-icon.svg" width="16" height="16" alt="Language" />
+</a>
+<a class="header__link header__link--icon link-animation" href="/account" aria-label="Account">
+  <img src="../assets/img/icons/account-icon.svg" width="16" height="16" alt="Account" />
+</a>
+<a class="header__link header__link--icon link-animation" data-cart-open="" href="#" aria-label="Shopping Cart">
+  <img src="../assets/img/icons/Shopping-cart-icon.svg" width="16" height="16" alt="Shopping Cart" />
+</a>
+</nav>
 
     <div class="header__mobile-actions">
       
